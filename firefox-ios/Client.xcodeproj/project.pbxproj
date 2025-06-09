@@ -4068,6 +4068,7 @@
 		43369A9D29BA6A3C007A80E3 /* hy-AM */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hy-AM"; path = "hy-AM.lproj/EngagementNotification.strings"; sourceTree = "<group>"; };
 		43369A9E29BA6A3C007A80E3 /* hy-AM */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hy-AM"; path = "hy-AM.lproj/Onboarding.strings"; sourceTree = "<group>"; };
 		43369A9F29BA6A3C007A80E3 /* hy-AM */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hy-AM"; path = "hy-AM.lproj/ResearchSurface.strings"; sourceTree = "<group>"; };
+		4336A05F2DF6FB8900190A2A /* ny */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ny; path = ny.lproj/WidgetIntents.strings; sourceTree = "<group>"; };
 		4336B50A2D5A14BC00437634 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/ExternalLink.strings; sourceTree = "<group>"; };
 		4336DF3C2B554CB00028A496 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/TabToolbar.strings; sourceTree = "<group>"; };
 		4336F84F2A52E4D60087F435 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/CustomizeFirefoxHome.strings; sourceTree = "<group>"; };
@@ -16002,6 +16003,7 @@
 				tg,
 				"es-ES",
 				tzm,
+				ny,
 			);
 			mainGroup = F84B21B51A090F8100AAB793;
 			packageReferences = (
@@ -25180,6 +25182,7 @@
 				43E58E852D6C8B9300B07153 /* tg */,
 				435B20F02D75C47A00D1CC3A /* es-ES */,
 				433D74F72D75C5FE003D5A32 /* tzm */,
+				4336A05F2DF6FB8900190A2A /* ny */,
 			);
 			name = WidgetIntents.intentdefinition;
 			sourceTree = "<group>";
